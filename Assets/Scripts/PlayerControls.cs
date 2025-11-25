@@ -558,5 +558,7 @@ public partial class @PlayerControls: IInputActionCollection2, IDisposable
         /// <seealso cref="UnityEngine.InputSystem.InputAction.performed" />
         /// <seealso cref="UnityEngine.InputSystem.InputAction.canceled" />
         void OnNewaction(InputAction.CallbackContext context);
+
+        //selam
     }
 }
